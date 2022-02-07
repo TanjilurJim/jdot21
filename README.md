@@ -1,2 +1,1 @@
-# jdot21
- 
+# jdot.github.io
